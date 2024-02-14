@@ -1,6 +1,11 @@
+# this is namespace demo cod
+
+
 apiVersion: v1
 kind: Namespace
 metadata:
   name: test
   labels:
     name: test
+
+# Do what ever you want 
